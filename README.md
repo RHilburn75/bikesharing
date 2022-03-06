@@ -1,5 +1,6 @@
 # bikesharing
 ## Project Overview
+To explore the possibilities of opening up a bike sharing in Demoines, we will analize data from New York Citibike.  We'll be using data visualization tools to provide a summary of our findings
 
 ## Resources
 - Data Source: Citi Bike Data, 201908-citibike- tripdata.csv
