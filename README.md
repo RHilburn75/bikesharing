@@ -26,4 +26,19 @@
 ![image](https://user-images.githubusercontent.com/94253815/156909572-dfcd22e8-f35d-4cc9-8eb4-aedeb47a5515.png)
 
 
-### Tableau Analysis
+## Tableau Analysis
+
+### Checkout Times for Users
+
+![image](https://user-images.githubusercontent.com/94253815/156909642-59ca01ea-f8bb-40db-a192-34a13161e133.png)
+
+
+### Checkout Times by Gender
+
+![image](https://user-images.githubusercontent.com/94253815/156909671-7ae1d8e6-badf-4727-87e8-a8f771625096.png)
+
+
+
+
+
+
