@@ -69,6 +69,9 @@ NYC Citibike Challenge Dashboard
 
 ### Trips by Weekday per Hour
 
+ - Peak times seem to be the commute to and from work - Rush hour.
+ - 
+
 ![image](https://user-images.githubusercontent.com/94253815/156909779-77d87509-6531-4a22-849e-c3f519f5e18b.png)
 
 
