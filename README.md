@@ -1,4 +1,4 @@
-# bikesharing
+# Bikesharing
 ## Project Overview
 To explore the possibilities of opening up a bike sharing in De Moine,IA, we will analize data from New York Citibike.  We'll be using data visualization tools to provide a summary of our findings
 
@@ -13,6 +13,10 @@ NYC Citibike Challenge Dashboard
 [link to dashboard](https://public.tableau.com/app/profile/rob.hilburn/viz/NYCCitibikechallenge/NYCCitibikeChallenge)
 
 ## Results
+
+ - Used Pandas and Juypter Notebook to create a new CSV file to include tripduration
+ 
+ 
 
 ## Module Work
 
