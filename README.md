@@ -16,7 +16,8 @@ NYC Citibike Challenge Dashboard
 
  - Used Pandas and Juypter Notebook to create a new CSV file to include tripduration
  
- 
+ ![image](https://user-images.githubusercontent.com/94253815/156928652-c78cf380-ad2a-416c-8a87-6ec10685e719.png)
+
 
 ## Module Work
 
