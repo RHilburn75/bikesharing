@@ -1,6 +1,6 @@
 # bikesharing
 ## Project Overview
-To explore the possibilities of opening up a bike sharing in Demoines, we will analize data from New York Citibike.  We'll be using data visualization tools to provide a summary of our findings
+To explore the possibilities of opening up a bike sharing in De Moine,IA, we will analize data from New York Citibike.  We'll be using data visualization tools to provide a summary of our findings
 
 ## Resources
 - Data Source: Citi Bike Data, 201908-citibike- tripdata.csv
@@ -17,7 +17,7 @@ NYC Citibike Challenge Dashboard
 ## Module Work
 
  - 2.3 million rides in August
- - 81% users were subsribers
+ - 81% users were subscribers
      - 65% were males
      - 25% were females
      - 10% unknown
