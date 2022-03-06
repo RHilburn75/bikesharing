@@ -70,7 +70,9 @@ NYC Citibike Challenge Dashboard
 ### Trips by Weekday per Hour
 
  - Peak times seem to be the commute to and from work - Rush hour.
- - 
+ - 7am - 9am for rush hour going to work
+ - 4pm - 7pm coming home for the evening
+ - Notice - There is a high number of commutes in the morning on Wednesday's.  However, it's the lightest commute of the week.
 
 ![image](https://user-images.githubusercontent.com/94253815/156909779-77d87509-6531-4a22-849e-c3f519f5e18b.png)
 
@@ -79,4 +81,12 @@ NYC Citibike Challenge Dashboard
 ### User Trips by Gender
 
 ![image](https://user-images.githubusercontent.com/94253815/156909790-4273e1ce-db03-4853-9c03-b9ee12b3e8cb.png)
+
+## Summary
+The results show that most of the bike sharing is in Manhatten, during the 7am - 9am rush hour and the 4pm - 7pm commute home. Also included in this day=ta is tourism.  There are also some increase on the weekend which is due to tourism.  This is a popular and widely used area of transportation for workers and commuters.
+Additional analysis would be helpful in coming to a decision
+ 1. Weather data to see the impacts of using bikesharing
+ 2. Male Bicylces used in comparison to femaile bicycles.  Comfort could increase business.
+ 3. Business month to month and tract trends
+ 4. Extend to the suburbs or borrough's 
 
