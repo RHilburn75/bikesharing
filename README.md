@@ -28,6 +28,9 @@ NYC Citibike Challenge Dashboard
 
 ### August Peak Hours
 
+ - Highest activity - 5pm - 7pm.  This will require the need for the most bikes to be ready
+ - 2am - 5am.  Prime time to perform bike maintenance.
+
 ![image](https://user-images.githubusercontent.com/94253815/156909492-6beb141e-d68e-419b-8da9-a391ec487b28.png)
 
 ### Avg Trip Duration
