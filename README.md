@@ -38,7 +38,18 @@
 ![image](https://user-images.githubusercontent.com/94253815/156909671-7ae1d8e6-badf-4727-87e8-a8f771625096.png)
 
 
+### Trips by Gender
+
+![image](https://user-images.githubusercontent.com/94253815/156909746-834005fb-879c-438b-89bb-27d296fe4864.png)
+
+
+### Trips by Weekday per Hour
+
+![image](https://user-images.githubusercontent.com/94253815/156909779-77d87509-6531-4a22-849e-c3f519f5e18b.png)
 
 
 
+### User Trips by Gender
+
+![image](https://user-images.githubusercontent.com/94253815/156909790-4273e1ce-db03-4853-9c03-b9ee12b3e8cb.png)
 
