@@ -15,6 +15,17 @@ NYC Citibike Challenge Dashboard
 ## Results
 
 ## Module Work
+
+ - 2.3 million rides in August
+ - 81% users were subsribers
+     - 65% were males
+     - 25% were females
+     - 10% unknown
+     
+ - Top riding locations are:
+     - Touristic areas
+     - Busy areas or districts
+
 ### August Peak Hours
 
 ![image](https://user-images.githubusercontent.com/94253815/156909492-6beb141e-d68e-419b-8da9-a391ec487b28.png)
