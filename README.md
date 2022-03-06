@@ -51,6 +51,8 @@ NYC Citibike Challenge Dashboard
 
 ### Checkout Times for Users
 
+- Bikes are mostly checked out for 4 to 6 hours 
+
 ![image](https://user-images.githubusercontent.com/94253815/156909642-59ca01ea-f8bb-40db-a192-34a13161e133.png)
 
 
@@ -58,6 +60,7 @@ NYC Citibike Challenge Dashboard
 
 ![image](https://user-images.githubusercontent.com/94253815/156909671-7ae1d8e6-badf-4727-87e8-a8f771625096.png)
 
+ - Males take 2-3 times more rides than then the female users
 
 ### Trips by Gender
 
